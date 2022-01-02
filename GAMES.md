@@ -16,6 +16,7 @@
 | Name  | Platform | Notes | Est. | Owned |
 | - | - | - | - | - |
 | 13 Sentinels: Aegis Rim | PS4 | - | 33:00:00 | FALSE |
+| Disco Elysium | PC | - | 31:00:00 | TRUE |
 | Start Wars Jedi: Fallen Order | PC | - | 21:30:00 | TRUE |
 | Steins;Gate: My Darling's Embrace | PC | - | 25:30:00 | TRUE | 
 | Voice of Cards: The Isle Dragon Roars | PC | - | 14:30:00 | TRUE |
