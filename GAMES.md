@@ -3,13 +3,13 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| Judgment | PS4 | 2021 | - |
 | NieR Replicant ver.1.22474487139... | PC | 2021 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
 | - | - | - | - | - | - | - | - |
 | 1 | Bright Memory: Infinite | PC | 2021-12-31 | 2022-01-01 | 01:59:00 | ~ | - |
+| 2 | Judgement | PS4 | 2021 | 2022-01-19 | 42:59:06 | + | - |
 
 ## Backlog
 ### High Priority
