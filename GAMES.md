@@ -4,12 +4,14 @@
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
 | NieR Replicant ver.1.22474487139... | PC | 2021 | - |
+| ALTER EGO COMPLEX | Android | 2022-02-17 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
 | - | - | - | - | - | - | - | - |
 | 1 | Bright Memory: Infinite | PC | 2021-12-31 | 2022-01-01 | 01:59:00 | ~ | - |
 | 2 | Judgement | PS4 | 2021 | 2022-01-19 | 42:59:06 | + | - |
+| 3 | ALTER EGO | Android | 2022-02-17 | 2022-02-17 | 02:00:00 | + | - |
 
 ## Backlog
 ### High Priority
