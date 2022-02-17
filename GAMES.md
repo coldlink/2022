@@ -4,6 +4,7 @@
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
 | NieR Replicant ver.1.22474487139... | PC | 2021 | - |
+| Pokémon Sword | NS | 2022-02-12 | - |
 | ALTER EGO COMPLEX | Android | 2022-02-17 | - |
 
 ## Completed
