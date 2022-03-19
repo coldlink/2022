@@ -2,3 +2,4 @@
 keeping track 2022
 
 [games](GAMES.md)
+[books](BOOKS.md)
