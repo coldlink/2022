@@ -3,7 +3,7 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| ANNO: Mutationem | PC | 2022-03-19 | - |
+
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -13,6 +13,7 @@
 | 3 | ALTER EGO | Android | 2022-02-17 | 2022-02-17 | 02:00:00 | + | Es |
 | 4 | ALTER EGO COMPLEX | Android | 2022-02-17 | 2022-02-18 | 01:00:00 | + | Es |
 | 5 | NieR Replicant ver.1.22474487139... | PC | 2021 | 2022-03-15 | 40:49:39 (save file) | + | A,B,C,D,E | 
+| 6 | ANNO: Mutationem | PC | 2022-03-19 | 2022-03-29 | 18:30:00 | + | - |
 
 ## Backlog
 ### High Priority
