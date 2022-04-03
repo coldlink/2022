@@ -3,7 +3,7 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-
+| Start Wars Jedi: Fallen Order | PC | 2022-03-30 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -23,7 +23,6 @@
 | Disco Elysium | PC | - | 31:00:00 | TRUE |
 | Hyperbolica | PC | Released: March 14, 2022 | - | FALSE |
 | Pokémon Sword | NS | - | 43:00:00 | TRUE |
-| Start Wars Jedi: Fallen Order | PC | - | 21:30:00 | TRUE |
 | Steins;Gate: My Darling's Embrace | PC | - | 25:30:00 | TRUE | 
 | Voice of Cards: The Isle Dragon Roars | PC | - | 14:30:00 | TRUE |
 
