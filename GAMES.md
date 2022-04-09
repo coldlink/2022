@@ -3,7 +3,7 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-
+| Coffee Talk | PC | 2022-04-08 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -21,7 +21,6 @@
 | Name  | Platform | Notes | Est. | Owned |
 | - | - | - | - | - |
 | 13 Sentinels: Aegis Rim | PS4/NS | - | 33:00:00 | FALSE |
-| Coffee Talk | PC | - | 05:30:00 | TRUE |
 | Disco Elysium | PC | - | 31:00:00 | TRUE |
 | Hyperbolica | PC | Released: March 14, 2022 | - | FALSE |
 | Pokémon Sword | NS | - | 43:00:00 | TRUE |
