@@ -3,6 +3,7 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
+| Voice of Cards: The Isle Dragon Roars | PC | 2022-04-12 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -25,7 +26,6 @@
 | Hyperbolica | PC | Released: March 14, 2022 | - | FALSE |
 | Pokémon Sword | NS | - | 43:00:00 | TRUE |
 | Steins;Gate: My Darling's Embrace | PC | - | 25:30:00 | TRUE | 
-| Voice of Cards: The Isle Dragon Roars | PC | - | 14:30:00 | TRUE |
 
 ### Normal Priority
 | Name  | Platform | Notes | Owned |
