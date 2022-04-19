@@ -3,7 +3,6 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| Voice of Cards: The Isle Dragon Roars | PC | 2022-04-12 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -16,6 +15,7 @@
 | 6 | ANNO: Mutationem | PC | 2022-03-19 | 2022-03-29 | 18:30:00 | + | - |
 | 7 | Start Wars Jedi: Fallen Order | PC | 2022-03-30 | 2022-04-05 | 18:06:00 | + | - |
 | 8 | Coffee Talk | PC | 2022-04-08 | 2022-04-11 | 03:15:00 | + | Main ending clear |
+| 9 | Voice of Cards: The Isle Dragon Roars | PC | 2022-04-12 | 2022-04-19 | 12:07:13 | ~ | - |
 
 ## Backlog
 ### High Priority
