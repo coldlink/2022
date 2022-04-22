@@ -21,11 +21,14 @@
 ### High Priority
 | Name  | Platform | Notes | Est. | Owned |
 | - | - | - | - | - |
-| 13 Sentinels: Aegis Rim | PS4/NS | - | 33:00:00 | FALSE |
+| 13 Sentinels: Aegis Rim | PS4 | - | 33:00:00 | TRUE |
+| Elden Ring | PC/PS4 | - | 92:30:00 | FALSE |
 | Disco Elysium | PC | - | 31:00:00 | TRUE |
 | Hyperbolica | PC | Released: March 14, 2022 | - | FALSE |
+| Lost Judgment | PS4 | - | 51:00:00 | FALSE |
 | Pokémon Sword | NS | - | 43:00:00 | TRUE |
 | Steins;Gate: My Darling's Embrace | PC | - | 25:30:00 | TRUE | 
+| Yakuza: Like a Dragon | PS4/PC | - | 66:30:00 | FALSE |
 
 ### Normal Priority
 | Name  | Platform | Notes | Owned |
