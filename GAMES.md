@@ -3,6 +3,9 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
+| 13 Sentinels: Aegis Rim | PS4 | - | - |
+| Mass Effect | PC | 2022-07-13 | - |
+| Stray | PC | 2022-07-19 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -22,7 +25,6 @@
 ### High Priority
 | Name  | Platform | Notes | Est. | Owned |
 | - | - | - | - | - |
-| 13 Sentinels: Aegis Rim | PS4 | - | 33:00:00 | TRUE |
 | Elden Ring | PC/PS4 | - | 92:30:00 | FALSE |
 | Disco Elysium | PC | - | 31:00:00 | TRUE |
 | Hyperbolica | PC | Released: March 14, 2022 | - | FALSE |
