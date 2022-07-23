@@ -4,8 +4,8 @@
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
 | 13 Sentinels: Aegis Rim | PS4 | - | - |
-| Mass Effect | PC | 2022-07-13 | - |
-| Stray | PC | 2022-07-19 | - |
+| Mass Effect | PC | 2022-07-13 | Replay |
+
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -20,6 +20,7 @@
 | 8 | Coffee Talk | PC | 2022-04-08 | 2022-04-11 | 03:15:00 | + | Main ending clear |
 | 9 | Voice of Cards: The Isle Dragon Roars | PC | 2022-04-12 | 2022-04-19 | 12:07:13 | ~ | - |
 | 10 | What Comes After | PC | 2022-06-04 | 2022-06-04 | 00:43:00 | + | - |
+| 11 | Stray | PC | 2022-07-19 | 2022-07-23 | 05:40:00 | + | 😻 |
 
 ## Backlog
 ### High Priority
