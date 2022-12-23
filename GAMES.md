@@ -4,7 +4,7 @@
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
 | 13 Sentinels: Aegis Rim | PS4 | - | - |
-| Mass Effect | PC | 2022-07-13 | Replay |
+| Mass Effect 2 | PC | - | Replay |
 
 
 ## Completed
@@ -21,6 +21,7 @@
 | 9 | Voice of Cards: The Isle Dragon Roars | PC | 2022-04-12 | 2022-04-19 | 12:07:13 | ~ | - |
 | 10 | What Comes After | PC | 2022-06-04 | 2022-06-04 | 00:43:00 | + | - |
 | 11 | Stray | PC | 2022-07-19 | 2022-07-23 | 05:40:00 | + | 😻 |
+| 12 | Mass Effect | PC | 2022-07-13 | - | - | + | Replay |
 
 ## Backlog
 ### High Priority
@@ -28,10 +29,7 @@
 | - | - | - | - | - |
 | Elden Ring | PC/PS4 | - | 92:30:00 | FALSE |
 | Disco Elysium | PC | - | 31:00:00 | TRUE |
-| Hyperbolica | PC | Released: March 14, 2022 | - | FALSE |
 | Lost Judgment | PS4 | - | 51:00:00 | FALSE |
-| Pokémon Sword | NS | - | 43:00:00 | TRUE |
-| Steins;Gate: My Darling's Embrace | PC | - | 25:30:00 | TRUE | 
 | Yakuza: Like a Dragon | PS4/PC | - | 66:30:00 | FALSE |
 
 ### Normal Priority
@@ -46,4 +44,6 @@
 ### Low Priority
 | Name  | Platform | Notes | Owned |
 | - | - | - | - |
+| Pokémon Sword | NS | - | 43:00:00 | TRUE |
+| Steins;Gate: My Darling's Embrace | PC | - | 25:30:00 | TRUE | 
 | World End Syndrome | PS4 | - | TRUE |
