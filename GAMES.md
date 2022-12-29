@@ -4,8 +4,7 @@
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
 | 13 Sentinels: Aegis Rim | PS4 | - | - |
-| Mass Effect 2 | PC | - | Replay |
-
+| Mass Effect 3 | PC | 2022-12-29 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -22,6 +21,7 @@
 | 10 | What Comes After | PC | 2022-06-04 | 2022-06-04 | 00:43:00 | + | - |
 | 11 | Stray | PC | 2022-07-19 | 2022-07-23 | 05:40:00 | + | 😻 |
 | 12 | Mass Effect | PC | 2022-07-13 | - | - | + | Replay |
+| 13 | Mass Effect 2 | PC | - | 2022-12-29 | 33:09:00 | + | Replay |
 
 ## Backlog
 ### High Priority
